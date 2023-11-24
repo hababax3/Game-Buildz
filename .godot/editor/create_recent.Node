@@ -1,0 +1,9 @@
+Label
+CollisionShape2D
+Area2D
+Timer
+TileMap
+ParallaxLayer
+ParallaxBackground
+AnimatedSprite2D
+RigidBody2D
